@@ -24,6 +24,9 @@ nav{
         border-bottom: 2px solid #8b5cf6;
     }
 }
+#earth{
+    color: #8b5cf6;
+}
 #moon{
     display: none;
 }
